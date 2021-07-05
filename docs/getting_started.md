@@ -9,11 +9,7 @@ Each visualization represents a view of a single Looker query. Looker will handl
 
 - Some knowledge of JavaScript and web development
 - Looker
-  - Currently, Looker must be hosted on-premise to use custom visualiations.
 
-  	 Depending on your license, our support team may need to enable the custom visualizations feature.
-
-  	 Use in-app chat or email support@looker.com if you need help with this.
 
 ## Hello World
 
